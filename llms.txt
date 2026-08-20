@@ -1,0 +1,20 @@
+# ascenra-store-guides
+> Ascenra premium landing + SEO guides (exact ascenra-landings visuals)
+
+## Flagship
+- https://ascenra-store-guides.pages.dev/ascenrads
+
+## Guides
+- [How to start an online store without building everything from scratch](https://ascenra-store-guides.pages.dev/how-to-start-an-online-store)
+- [Free ecommerce platforms: what is actually free](https://ascenra-store-guides.pages.dev/free-ecommerce-platform)
+- [Dropshipping for beginners: a realistic first store](https://ascenra-store-guides.pages.dev/dropshipping-for-beginners)
+- [Online store builders for beginners — what actually helps](https://ascenra-store-guides.pages.dev/online-store-builder-for-beginners)
+- [Create an online store without coding](https://ascenra-store-guides.pages.dev/create-online-store-without-coding)
+- [Ecommerce product research that respects reality](https://ascenra-store-guides.pages.dev/ecommerce-product-research)
+- [Online store launch checklist](https://ascenra-store-guides.pages.dev/online-store-launch-checklist)
+- [Free store builder options for small businesses](https://ascenra-store-guides.pages.dev/free-store-builder-small-business)
+- [Ecommerce SEO basics for new online stores](https://ascenra-store-guides.pages.dev/ecommerce-seo-basics)
+- [Dropshipping automation without losing control](https://ascenra-store-guides.pages.dev/dropshipping-automation)
+
+## Commercial destination
+- https://ascenrads.com
